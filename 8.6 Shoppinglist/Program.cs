@@ -21,6 +21,7 @@ namespace _8._6_Shoppinglist
             sr.Close();
             Console.ReadLine();
 
+            //Console.WriteLine("press 1 to add item to shopping list press 2 to close the program");
             Console.WriteLine("Add item to shopping list: ");
             string item = Console.ReadLine();
 
